@@ -1,0 +1,15 @@
+- name: Row of Cottages
+  src:  assets/img/portfolio/1.jpg
+  link: '#portfolioModal1'
+- name: Boat with Beachhut At Seaside
+  src: assets/img/portfolio/2.jpg
+  link: '#portfolioModal2'
+- name: VW Campervan (No Glaze)
+  src: assets/img/portfolio/3.jpg
+  link: '#portfolioModal3'
+- name: Green Landrover
+  src: assets/img/portfolio/4.jpg
+  link: '#portfolioModal4'
+- name: Blue Sailing Boat
+  src: assets/img/portfolio/5.jpg
+  link: '#portfolioModal5'

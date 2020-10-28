@@ -1,0 +1,4 @@
+- name: HOME
+  link: '/'
+- name: 'SHOP'
+  link: '/shop.html'
