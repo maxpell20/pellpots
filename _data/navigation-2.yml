@@ -1,4 +1,3 @@
-- name: HOME
-  link: '/'
-- name: 'SHOP'
-  link: '/shop.html'
+- name: PORTFOLIO
+- name: SHOP
+  link: https://www.ebay.co.uk/str/pellpots
