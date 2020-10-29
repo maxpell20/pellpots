@@ -74,6 +74,17 @@ p {
   margin-top: 0;
   margin-bottom: 1rem; }
 
+  /*
+     FOOTER SOCIAL STYLES
+   */
+
+
+   svg.svg-inline--fa.fa-facebook-f.fa-w-10,
+   svg.svg-inline--fa.fa-instagram.fa-w-14.fa-lg {
+       color: #fff;
+       margin-left: 0.5em; 
+   }
+
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
@@ -133,11 +144,11 @@ sub {
 sup {
   top: -.5em; }
 
-a {
+a{
   color: #000;
   text-decoration: none;
   background-color: transparent; }
-  a:hover {
+  #email-address:hover {
     color: #611320;
     text-decoration: underline; }
 
@@ -7387,7 +7398,7 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #360b12;
   color: #f1f1f1;
-  font-size: 1.25em; 
+  font-size: 1.25em;
 }
 
 #brandImage {

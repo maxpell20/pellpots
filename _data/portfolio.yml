@@ -13,3 +13,6 @@
 - name: Blue Sailing Boat
   src: assets/img/portfolio/5.jpg
   link: '#portfolioModal5'
+- name: nothing
+  src:  assets/img/portfolio/6.jpg
+  link: '#portfolioModal6'
